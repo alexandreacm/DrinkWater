@@ -13,7 +13,7 @@ import { Fontisto } from "@expo/vector-icons";
 
 import { styles } from "./styles";
 import { theme } from "../../styles/theme";
-import { Header } from "../components/Header";
+import { Header } from "../../components/Header";
 
 import { Svg, Circle, Path } from "react-native-svg";
 

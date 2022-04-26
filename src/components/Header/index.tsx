@@ -2,8 +2,8 @@ import React from 'react';
 import { View, Text } from 'react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
-import { theme } from '../../../styles/theme';
-import { cups } from '../../../utils/cups';
+import { theme } from '../../styles/theme';
+import { cups } from '../../utils/cups';
 import { styles } from './styles';
 
 type Props = {
