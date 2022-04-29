@@ -53,7 +53,7 @@ expo start
 ├── screens
 ├── styles
 ├── utils
-|   └── theme
+    └── theme
 ```
 
 <div align="center">

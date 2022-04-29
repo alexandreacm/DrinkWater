@@ -139,16 +139,6 @@ export function Home() {
         <TouchableOpacity style={styles.button} onPress={handleDrink}>
           <Svg width="120" height="120">
             <AnimatedCircle animatedProps={buttonProps} />
-
-            {/*<AnimatedCircle
-              cx="60"
-              cy="60"
-              r="40"
-              fill={theme.colors.blue100}
-              strokeWidth={17}
-              stroke={theme.colors.blue90}
-              strokeOpacity={0.5}
-            />*/}
           </Svg>
 
           <Fontisto
