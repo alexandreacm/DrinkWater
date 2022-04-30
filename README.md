@@ -32,6 +32,7 @@ To styling issues, we use stylesheet as the main library.
 - [ ] React Native Expo
 - [ ] React Native Svg
 - [ ] React Native Reanimated
+- [ ] TypeScript
 
 ## Running the project
 
